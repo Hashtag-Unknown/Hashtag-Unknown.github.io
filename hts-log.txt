@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 05 Jul 2019 22:00:18 at https://yuvrajsharma07.github.io/#intro +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -P https://yuvrajsharma07.github.io/#intro https://yuvrajsharma07.github.io/#intro -O1 "E:\Hashtag.Unknown\Portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:01:09	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+22:01:09	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/intro (from primary/primary)
+22:02:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/intro (from primary/primary)
+22:02:18	Warning: 	Link https://yuvrajsharma07.github.io/hackathon/login.html not scanned (follow robots meta tag)
+22:02:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js (from https://yuvrajsharma07.github.io/hackathon/)
+22:02:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js (from https://yuvrajsharma07.github.io/tis2/)
+22:02:45	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/intro (from primary/primary)
+22:02:45	Error: 	"Not Found" (404) at link https://yuvrajsharma07.github.io/hackathon/res/manifest.json (from https://yuvrajsharma07.github.io/hackathon/login.html)
+22:02:45	Error: 	"Not Found" (404) at link https://yuvrajsharma07.github.io/hackathon/res/safari-pinned-tab.svg (from https://yuvrajsharma07.github.io/hackathon/login.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 27 seconds : 106 links scanned, 97 files written (13600636 bytes overall) [11869493 bytes received at 80744 bytes/sec], 2860553 bytes transferred using HTTP compression in 64 files, ratio 36%, 4.4 requests per connection
+(4 errors, 5 warnings, 0 messages)
